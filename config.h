@@ -1,3 +1,3 @@
-const char* ssid = "INFINITUM66A3_2.4";
-const char* password = "tGs6DRpyx3";
+const char* ssid = "";
+const char* password = "";
 const char* hostname = "Monitor_SP-D";
